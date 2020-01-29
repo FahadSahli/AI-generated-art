@@ -8,10 +8,10 @@ Our approach is to divide the content image into 4 parts. Then, a style is appli
 ![Content Image](https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/content.jpeg)
 
 * The 4 parts of the content image are: <br>
-<img align="left" width="250" height="250" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content1.jpeg">
-<img align="left" width="250" height="250" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content2.jpeg">
-<img align="left" width="250" height="250" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content3.jpeg">
-<img align="left" width="250" height="250" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content4.jpeg">
+<img align="left" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content1.jpeg">
+<img align="left" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content2.jpeg">
+<img align="left" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content3.jpeg">
+<img align="left" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content4.jpeg">
 
 * The applied styles are : <br>
 ![First Style](https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/style1.jpeg) <br>
