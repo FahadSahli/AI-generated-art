@@ -8,16 +8,31 @@ Our approach is to divide the content image into 4 parts. Then, a style is appli
 ![Content Image](https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/content.jpeg)
 
 * The 4 parts of the content image: <br>
-<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content1.jpeg"> <br>
-<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content2.jpeg"> <br>
-<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content3.jpeg"> <br>
-<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content4.jpeg"> <br>
+<p align="center">
+<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content1.jpeg"> </p> <br>
+
+<p align="center">
+<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content2.jpeg"> </p> <br>
+
+<p align="center">
+<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content3.jpeg"> </p> <br>
+
+<p align="center">
+<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/content4.jpeg"> </p> <br>
 
 * The applied styles: <br>
-<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/style1.jpeg"> <br>
-<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/style2.jpeg"> <br>
-<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/style3.jpeg"> <br>
-<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/style4.jpeg"> <br>
+
+<p align="center">
+<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/style1.jpeg"> </p> <br>
+
+<p align="center">
+<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/style2.jpeg"> </p> <br>
+
+<p align="center">
+<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/style3.jpeg"> </p> <br>
+
+<p align="center">
+<img align="center" width="250" height="500" src="https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/images/style4.jpeg"> </p> <br>
 
 * The final result: <br>
 ![Final Result](https://github.com/FahadSahli/AI-generated-art/blob/master/Neural-Style/output.png)
